@@ -1,0 +1,17 @@
+container = "ice cream"
+icecreams = 11
+melt = True
+height = 2.75
+
+# printing different variables and their data type
+print("container :", container)
+print("data type of (container is", type(container))
+print("icecreams :", icecreams)
+print("data type of icecreams is", type(icecreams))
+print("can not melt :", melt)
+print("data type of melt is", type(melt))
+# type casting to convert the data type of variables
+print("\nAfter Type Casting....")
+height = int(height)
+print(height)
+print("data type of height is", type (height))

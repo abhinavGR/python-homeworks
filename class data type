@@ -1,0 +1,14 @@
+ container = "ice cream"
+ice creams  = 11
+can not melt = false 
+height = 2.75 inches
+# printing different variables and their Data type
+print("container :" , container )
+print("ice cream :", ice cream)
+print("data type of ice cream is ", type(age))
+print("can not melt :", can not melt)
+# type casting to convert the data type of variables 
+print("\n After Type Casting....")
+height = str(height)
+print(height)
+print("data type of height is", type (age))
