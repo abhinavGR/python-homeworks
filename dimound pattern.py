@@ -1,1 +1,1 @@
-rowSize
+int
